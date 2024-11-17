@@ -2,6 +2,7 @@ body {
     margin: 0;
     width: 600px;
     margin: 0 auto;
+    /* height: 100vh; */
 } 
 
 header{
@@ -12,7 +13,7 @@ header{
     height: 167px;
     font-family: "Smythe", system-ui;
     font-weight: 400;
-    color: whitesmoke;
+    color: rgb(245, 243, 243);
     margin-bottom: 50px;
 }
 
